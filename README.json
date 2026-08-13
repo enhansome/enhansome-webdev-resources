@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Color Palettes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Color Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Font Pairing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Free Hosting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Paid Hosting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Favicons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Animation Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Authentication Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Color Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Email Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Form Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Icon Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scroll Animation Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Animation Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Placeholder Images"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Placeholder Text"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:27.071Z",
+    "original_repository": "ItzAshOffcl/awesome-webdev-resources",
+    "original_repository_sha": "a6a6e3304d22b863cb1fd6290f3f02a41a04bd8f",
+    "enhanced_repository": "enhansome/enhansome-webdev-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome WebDev Resources with stars"
+  }
+}
