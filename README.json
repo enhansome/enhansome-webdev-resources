@@ -288,7 +288,7 @@
                 "last_commit": "2023-03-01T13:55:08Z",
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21990
+                "stars": 21989
               }
             },
             {
@@ -355,7 +355,7 @@
                 "last_commit": "2025-12-04T07:31:46Z",
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25241
+                "stars": 25240
               }
             },
             {
@@ -706,7 +706,7 @@
                 "last_commit": "2022-08-23T11:04:12Z",
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5442
+                "stars": 5441
               }
             },
             {
@@ -721,7 +721,7 @@
                 "last_commit": "2026-08-25T00:08:23Z",
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16892
+                "stars": 16893
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:21:48.047Z",
+    "last_updated": "2026-08-25T06:24:52.135Z",
     "original_repository": "ItzAshOffcl/awesome-webdev-resources",
     "original_repository_id": 836261145,
     "original_repository_sha": "a6a6e3304d22b863cb1fd6290f3f02a41a04bd8f",
