@@ -340,7 +340,7 @@
                 "last_commit": "2026-06-22T20:24:15Z",
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7856
+                "stars": 7855
               }
             },
             {
@@ -355,7 +355,7 @@
                 "last_commit": "2025-12-04T07:31:46Z",
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25240
+                "stars": 25241
               }
             },
             {
@@ -452,7 +452,7 @@
                 "last_commit": "2024-04-05T17:55:48Z",
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22470
+                "stars": 22471
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-06-30T19:36:53Z",
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8845
+                "stars": 8846
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-23T23:37:33Z",
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29967
+                "stars": 29966
               }
             },
             {
@@ -718,10 +718,10 @@
                 "archived": false,
                 "id": 30064588,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:27:13Z",
+                "last_commit": "2026-08-25T00:08:23Z",
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16890
+                "stars": 16892
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:41.407Z",
+    "last_updated": "2026-08-25T02:21:48.047Z",
     "original_repository": "ItzAshOffcl/awesome-webdev-resources",
     "original_repository_id": 836261145,
     "original_repository_sha": "a6a6e3304d22b863cb1fd6290f3f02a41a04bd8f",
