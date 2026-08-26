@@ -15,7 +15,7 @@
             "last_commit": "2023-01-15T20:28:15Z",
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4011
+            "stars": 4012
           }
         }
       ],
@@ -161,7 +161,7 @@
                 "last_commit": "2024-06-26T15:48:44Z",
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5246
+                "stars": 5245
               }
             },
             {
@@ -191,7 +191,7 @@
                 "last_commit": "2018-08-31T20:55:19Z",
                 "owner": "Fooidge",
                 "repo": "PleaseJS",
-                "stars": 2268
+                "stars": 2267
               }
             },
             {
@@ -288,7 +288,7 @@
                 "last_commit": "2023-03-01T13:55:08Z",
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21989
+                "stars": 21987
               }
             },
             {
@@ -303,7 +303,7 @@
                 "last_commit": "2026-04-08T09:52:14Z",
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30718
+                "stars": 30717
               }
             },
             {
@@ -355,7 +355,7 @@
                 "last_commit": "2025-12-04T07:31:46Z",
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25240
+                "stars": 25242
               }
             },
             {
@@ -400,7 +400,7 @@
                 "last_commit": "2026-05-23T12:20:04Z",
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3942
+                "stars": 3941
               }
             },
             {
@@ -482,7 +482,7 @@
                 "last_commit": "2022-05-11T11:39:51Z",
                 "owner": "pixelcog",
                 "repo": "parallax.js",
-                "stars": 3533
+                "stars": 3532
               }
             },
             {
@@ -512,7 +512,7 @@
                 "last_commit": "2026-08-04T09:26:15Z",
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14956
+                "stars": 14955
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-06-30T19:36:53Z",
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8846
+                "stars": 8845
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2026-03-17T16:13:31Z",
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35406
+                "stars": 35402
               }
             },
             {
@@ -624,7 +624,7 @@
                 "last_commit": "2026-01-25T21:28:00Z",
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16283
+                "stars": 16284
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-23T23:37:33Z",
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29966
+                "stars": 29968
               }
             },
             {
@@ -718,10 +718,10 @@
                 "archived": false,
                 "id": 30064588,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T00:08:23Z",
+                "last_commit": "2026-08-25T15:51:14Z",
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16893
+                "stars": 16896
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:52.135Z",
+    "last_updated": "2026-08-26T02:37:18.677Z",
     "original_repository": "ItzAshOffcl/awesome-webdev-resources",
     "original_repository_id": 836261145,
     "original_repository_sha": "a6a6e3304d22b863cb1fd6290f3f02a41a04bd8f",
