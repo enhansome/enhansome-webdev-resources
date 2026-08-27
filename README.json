@@ -340,7 +340,7 @@
                 "last_commit": "2026-06-22T20:24:15Z",
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7855
+                "stars": 7856
               }
             },
             {
@@ -467,7 +467,7 @@
                 "last_commit": "2024-03-26T15:58:43Z",
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28056
+                "stars": 28055
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-06-30T19:36:53Z",
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8848
+                "stars": 8849
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2026-03-17T16:13:31Z",
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35403
+                "stars": 35404
               }
             },
             {
@@ -587,7 +587,7 @@
                 "last_commit": "2026-08-27T06:57:05Z",
                 "owner": "jscottsmith",
                 "repo": "react-scroll-parallax",
-                "stars": 2985
+                "stars": 2986
               }
             },
             {
@@ -718,7 +718,7 @@
                 "archived": false,
                 "id": 30064588,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:08:44Z",
+                "last_commit": "2026-08-27T11:47:08Z",
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 16900
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:08:53.906Z",
+    "last_updated": "2026-08-27T12:14:22.766Z",
     "original_repository_info": {
       "archived": false,
       "id": 836261145,
