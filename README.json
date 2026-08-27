@@ -15,7 +15,7 @@
             "last_commit": "2023-01-15T20:28:15Z",
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4012
+            "stars": 4011
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2023-06-19T10:33:24Z",
             "owner": "Anmol-Baranwal",
             "repo": "Awesome-Illustrations-4Projects",
-            "stars": 190
+            "stars": 189
           }
         }
       ],
@@ -161,7 +161,7 @@
                 "last_commit": "2024-06-26T15:48:44Z",
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5245
+                "stars": 5246
               }
             },
             {
@@ -452,7 +452,7 @@
                 "last_commit": "2024-04-05T17:55:48Z",
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22471
+                "stars": 22473
               }
             },
             {
@@ -467,7 +467,7 @@
                 "last_commit": "2024-03-26T15:58:43Z",
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28057
+                "stars": 28056
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-06-30T19:36:53Z",
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8845
+                "stars": 8848
               }
             },
             {
@@ -542,7 +542,7 @@
                 "last_commit": "2025-02-19T14:35:35Z",
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4401
+                "stars": 4402
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2026-03-17T16:13:31Z",
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35402
+                "stars": 35403
               }
             },
             {
@@ -584,10 +584,10 @@
                 "archived": false,
                 "id": 84919676,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T01:24:12Z",
+                "last_commit": "2026-08-27T06:57:05Z",
                 "owner": "jscottsmith",
                 "repo": "react-scroll-parallax",
-                "stars": 2986
+                "stars": 2985
               }
             },
             {
@@ -624,7 +624,7 @@
                 "last_commit": "2026-01-25T21:28:00Z",
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16284
+                "stars": 16285
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-23T23:37:33Z",
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29968
+                "stars": 29969
               }
             },
             {
@@ -718,10 +718,10 @@
                 "archived": false,
                 "id": 30064588,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T15:51:14Z",
+                "last_commit": "2026-08-27T11:08:44Z",
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16896
+                "stars": 16900
               }
             },
             {
@@ -779,9 +779,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:37:18.677Z",
-    "original_repository": "ItzAshOffcl/awesome-webdev-resources",
-    "original_repository_id": 836261145,
+    "last_updated": "2026-08-27T11:08:53.906Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 836261145,
+      "language": null,
+      "last_commit": "2024-11-22T11:42:34Z",
+      "owner": "ItzAshOffcl",
+      "repo": "awesome-webdev-resources",
+      "stars": 223
+    },
     "original_repository_sha": "a6a6e3304d22b863cb1fd6290f3f02a41a04bd8f",
     "enhanced_repository": "enhansome/enhansome-webdev-resources",
     "enhanced_repository_description": null,
