@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instagram.css - Complete set of Instagram filters in pure CSS",
+            "homepage": "https://picturepan2.github.io/instagram.css/",
             "id": 111373781,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-01-15T20:28:15Z",
+            "open_issues": 20,
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4011
+            "stars": 4010,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
         }
@@ -32,12 +37,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of iconfonts",
+            "homepage": null,
             "id": 21356671,
             "language": "CSS",
+            "license": null,
             "last_commit": "2016-04-30T01:52:54Z",
+            "open_issues": 0,
             "owner": "lvwzhen",
             "repo": "iconpark",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "css",
+              "icon-font"
+            ]
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
         }
@@ -54,12 +67,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.",
+            "homepage": "https://www.producthunt.com/posts/awesome-illustrations-for-projects",
             "id": 524309204,
             "language": "Markdown",
+            "license": "CC0-1.0",
             "last_commit": "2023-06-19T10:33:24Z",
+            "open_issues": 3,
             "owner": "Anmol-Baranwal",
             "repo": "Awesome-Illustrations-4Projects",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "assets",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "collaborate",
+              "design",
+              "figma",
+              "freebies",
+              "github",
+              "icons",
+              "illustration",
+              "illustration-design",
+              "illustrations",
+              "portfolio",
+              "resources",
+              "sketch",
+              "svg-icons"
+            ]
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
         }
@@ -78,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript library to create physics-based animations",
+                "homepage": "http://dynamicsjs.com",
                 "id": 16466596,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2019-02-26T06:19:21Z",
+                "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7545
+                "stars": 7545,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -101,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "audiolib.js is a powerful audio tools library for javascript.",
+                "homepage": "http://audiolibjs.org/",
                 "id": 1323471,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-01-14T11:52:35Z",
+                "open_issues": 12,
                 "owner": "jussi-kalliokoski",
                 "repo": "audiolib.js",
-                "stars": 673
+                "stars": 673,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -117,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ThreeAudio helps you create music visualizations in Three.js or tQuery. ",
+                "homepage": null,
                 "id": 5002669,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-10-17T18:55:13Z",
+                "open_issues": 3,
                 "owner": "unconed",
                 "repo": "ThreeAudio.js",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -140,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Token-based AngularJS Authentication",
+                "homepage": "https://satellizer-sahat.rhcloud.com",
                 "id": 21486287,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-17T15:43:16Z",
+                "open_issues": 289,
                 "owner": "sahat",
                 "repo": "satellizer",
-                "stars": 7791
+                "stars": 7791,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -163,12 +219,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, small color manipulation and conversion for JavaScript",
+                "homepage": "https://bgrins.github.io/TinyColor/",
                 "id": 1973790,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
+                "open_issues": 106,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5246
+                "stars": 5246,
+                "topics": [
+                  "color",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -179,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rainbow: Javascript color conversion and manipulation library",
+                "homepage": null,
                 "id": 1939300,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-14T18:40:24Z",
+                "open_issues": 20,
                 "owner": "Qix-",
                 "repo": "color",
-                "stars": 4935
+                "stars": 4935,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -195,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Library for creating random pleasing colors and color schemes",
+                "homepage": null,
                 "id": 21315452,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-31T20:55:19Z",
+                "open_issues": 20,
                 "owner": "Fooidge",
                 "repo": "PleaseJS",
-                "stars": 2267
+                "stars": 2267,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -211,12 +285,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more",
+                "homepage": "https://ngx-color.vercel.app",
                 "id": 102819145,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-16T07:55:12Z",
+                "open_issues": 28,
                 "owner": "scttcper",
                 "repo": "ngx-color",
-                "stars": 444
+                "stars": 444,
+                "topics": [
+                  "angular",
+                  "color-picker",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -227,12 +310,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern collection of Vue color pickers – fast, accessible, and easy to use.",
+                "homepage": "https://linx4200.github.io/vue-color/",
                 "id": 56842017,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-21T23:23:40Z",
+                "open_issues": 7,
                 "owner": "linx4200",
                 "repo": "vue-color",
-                "stars": 2612
+                "stars": 2612,
+                "topics": [
+                  "color-picker",
+                  "vue",
+                  "vue-components",
+                  "vue-ui",
+                  "vue-ui-components",
+                  "vue3",
+                  "vue3-typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -243,12 +339,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":art: Help the user picking beautiful colors!",
+                "homepage": "https://saintplay.github.io/vue-swatches/",
                 "id": 115240140,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-29T18:15:21Z",
+                "open_issues": 5,
                 "owner": "saintplay",
                 "repo": "vue-swatches",
-                "stars": 564
+                "stars": 564,
+                "topics": [
+                  "color-palette",
+                  "color-picker",
+                  "component",
+                  "swatches",
+                  "ui-components",
+                  "vue",
+                  "vue-components",
+                  "vuejs",
+                  "vuejs-components",
+                  "vuejs2"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -259,12 +371,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions",
+                "homepage": "https://colord.omgovich.ru",
                 "id": 316474381,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T09:43:33Z",
+                "open_issues": 24,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1886
+                "stars": 1886,
+                "topics": [
+                  "a11y",
+                  "color",
+                  "color-names",
+                  "converter",
+                  "css-color",
+                  "hacktoberfest",
+                  "hex",
+                  "hsl",
+                  "hsv",
+                  "hwb",
+                  "lab",
+                  "lch",
+                  "parser",
+                  "rgb",
+                  "tiny",
+                  "xyz",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -275,12 +410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color spaces! RGB, HSL, Cubehelix, CIELAB, and more.",
+                "homepage": "https://d3js.org/d3-color",
                 "id": 36747447,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2024-02-03T19:16:02Z",
+                "open_issues": 16,
                 "owner": "d3",
                 "repo": "d3-color",
-                "stars": 426
+                "stars": 426,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -298,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTML5 saveAs() FileSaver implementation",
+                "homepage": "https://eligrey.com/blog/saving-generated-files-on-the-client-side/",
                 "id": 2051226,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-01T13:55:08Z",
+                "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21986
+                "stars": 21986,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -314,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+                "homepage": "https://blueimp.github.io/jQuery-File-Upload/",
                 "id": 1129010,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-08T09:52:14Z",
+                "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30715
+                "stars": 30714,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -330,12 +480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use Angular components for files upload",
+                "homepage": "http://valor-software.github.io/ng2-file-upload/",
                 "id": 41478768,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-05T14:16:42Z",
+                "open_issues": 425,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1900
+                "stars": 1900,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -353,12 +508,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain \"vanilla\" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.",
+                "homepage": "https://www.andreaverlicchi.eu/vanilla-lazyload/",
                 "id": 26447951,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T20:24:15Z",
+                "open_issues": 13,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7856
+                "stars": 7856,
+                "topics": [
+                  "hacktoberfest",
+                  "iframes",
+                  "images",
+                  "intersectionobserver",
+                  "lazy-loading",
+                  "lazy-sizes",
+                  "lazyload",
+                  "lazyload-iframes",
+                  "lazyload-images",
+                  "lazyload-script",
+                  "lazyload-videos",
+                  "picture",
+                  "picture-tag",
+                  "responsive-images",
+                  "srcset",
+                  "srcset-sizes",
+                  "vanilla-javascript",
+                  "vanilla-js",
+                  "videos",
+                  "webp"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -369,12 +550,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript image gallery for mobile and desktop, modular, framework independent",
+                "homepage": "http://photoswipe.com",
                 "id": 1580851,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-04T07:31:46Z",
+                "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25242
+                "stars": 25243,
+                "topics": [
+                  "gallery",
+                  "image",
+                  "javascript",
+                  "lightbox"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -385,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vanilla JavaScript plugin for lazyloading images ",
+                "homepage": "https://appelsiini.net/projects/lazyload/",
                 "id": 71972,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-05T01:36:15Z",
+                "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8708
+                "stars": 8708,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -401,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Photo Gallery",
+                "homepage": "http://neptunian.github.io/react-photo-gallery/",
                 "id": 46651870,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-09T15:30:35Z",
+                "open_issues": 80,
                 "owner": "neptunian",
                 "repo": "react-photo-gallery",
-                "stars": 2014
+                "stars": 2014,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -417,12 +618,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React carousel image gallery component with thumbnail support  🖼",
+                "homepage": "http://linxtion.com/demo/react-image-gallery",
                 "id": 31444190,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-23T12:20:04Z",
+                "open_issues": 14,
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3941
+                "stars": 3941,
+                "topics": [
+                  "carousel",
+                  "gallery",
+                  "image-gallery",
+                  "image-slider",
+                  "react",
+                  "react-carousel",
+                  "react-component",
+                  "react-components",
+                  "react-image-gallery",
+                  "react-image-slider",
+                  "slide-images"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -433,12 +651,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "React lightbox component",
+                "homepage": "https://frontend-collective.github.io/react-image-lightbox/",
                 "id": 51432549,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-19T15:09:28Z",
+                "open_issues": 0,
                 "owner": "frontend-collective",
                 "repo": "react-image-lightbox",
-                "stars": 1278
+                "stars": 1278,
+                "topics": [
+                  "component",
+                  "image",
+                  "lightbox",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -449,12 +677,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple responsive native gallery component for Angular 8+.",
+                "homepage": "https://ngx-gallery.kolkov.ru/",
                 "id": 223669815,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-18T14:41:22Z",
+                "open_issues": 62,
                 "owner": "kolkov",
                 "repo": "ngx-gallery",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "angular",
+                  "demo",
+                  "gallery",
+                  "ngx-gallery"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -472,12 +710,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animate elements as they scroll into view.",
+                "homepage": "https://scrollrevealjs.org/",
                 "id": 15975439,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-04-05T17:55:48Z",
+                "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22474
+                "stars": 22475,
+                "topics": [
+                  "animation",
+                  "css",
+                  "javascript",
+                  "reveal",
+                  "scroll",
+                  "scrollreveal",
+                  "transform",
+                  "transition"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -488,12 +740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animate on scroll library",
+                "homepage": null,
                 "id": 38836015,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-26T15:58:43Z",
+                "open_issues": 374,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28055
+                "stars": 28054,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -504,12 +761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin",
+                "homepage": null,
                 "id": 20625687,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-11T11:39:51Z",
+                "open_issues": 47,
                 "owner": "pixelcog",
                 "repo": "parallax.js",
-                "stars": 3532
+                "stars": 3532,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -520,12 +782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight, vanilla javascript parallax library",
+                "homepage": "https://dixonandmoe.com/rellax/",
                 "id": 52831797,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-08-24T00:53:35Z",
+                "open_issues": 76,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7134
+                "stars": 7134,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -536,12 +803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The javascript library for magical scroll interactions.",
+                "homepage": "http://ScrollMagic.io",
                 "id": 13030144,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-04T09:26:15Z",
+                "open_issues": 4,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14957
+                "stars": 14956,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -552,12 +824,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
+                "homepage": "https://scroll.locomotive.ca",
                 "id": 70737507,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T19:36:53Z",
+                "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8849
+                "stars": 8849,
+                "topics": [
+                  "in-view",
+                  "javascript",
+                  "parallax",
+                  "smooth-scrolling"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -568,12 +850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React scroll component",
+                "homepage": "https://github.com/fisshy/react-scroll/blob/master/README.md",
                 "id": 31434220,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-19T14:35:35Z",
+                "open_issues": 229,
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4402
+                "stars": 4402,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -584,12 +871,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animated scrolling functionality for angular written in pure typescript",
+                "homepage": "https://nolanus.github.io/ngx-page-scroll/",
                 "id": 54793332,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-16T08:45:33Z",
+                "open_issues": 30,
                 "owner": "Nolanus",
                 "repo": "ngx-page-scroll",
-                "stars": 471
+                "stars": 471,
+                "topics": [
+                  "anchor",
+                  "angular",
+                  "angular7",
+                  "animate",
+                  "ngx-page-scroll",
+                  "scroll",
+                  "scroll-animations",
+                  "scrollto"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -600,12 +901,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
+                "homepage": "http://alvarotrigo.com/fullPage/",
                 "id": 12972263,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-17T16:13:31Z",
+                "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35403
+                "stars": 35401,
+                "topics": [
+                  "fullpage",
+                  "fullscreen",
+                  "javascript",
+                  "jquery",
+                  "mousewheel",
+                  "onepage",
+                  "scrolling",
+                  "sections",
+                  "slide",
+                  "slideshow",
+                  "snap",
+                  "swipe"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -616,12 +935,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔮  React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.",
+                "homepage": "https://react-scroll-parallax.damnthat.tv/",
                 "id": 84919676,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T06:57:05Z",
+                "open_issues": 5,
                 "owner": "jscottsmith",
                 "repo": "react-scroll-parallax",
-                "stars": 2986
+                "stars": 2986,
+                "topics": [
+                  "animation",
+                  "banner",
+                  "component",
+                  "effects",
+                  "hooks",
+                  "parallax",
+                  "react",
+                  "scroll"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -632,12 +965,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).",
+                "homepage": "http://prinzhorn.github.io/skrollr/",
                 "id": 3755875,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-01-23T20:05:59Z",
+                "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18416
+                "stars": 18415,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -655,12 +993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript Typing Animation Library",
+                "homepage": "http://www.mattboldt.com/demos/typed-js/",
                 "id": 10290605,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-25T21:28:00Z",
+                "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16284
+                "stars": 16284,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -671,12 +1014,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple yet powerful native javascript plugin for a cool typewriter effect.",
+                "homepage": "https://www.npmjs.com/package/typewriter-effect",
                 "id": 82093328,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-29T09:46:30Z",
+                "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2675
+                "stars": 2675,
+                "topics": [
+                  "javascript",
+                  "native-javascript-plugin",
+                  "typewriter",
+                  "typewriterjs"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -694,12 +1047,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion",
+                "homepage": "https://cookpete.github.io/react-player",
                 "id": 40963709,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-13T19:27:44Z",
+                "open_issues": 61,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10278
+                "stars": 10278,
+                "topics": [
+                  "audio",
+                  "dailymotion",
+                  "dash",
+                  "facebook",
+                  "hls",
+                  "media",
+                  "player",
+                  "react",
+                  "soundcloud",
+                  "streamable",
+                  "twitch",
+                  "video",
+                  "vimeo",
+                  "wistia",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -710,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎞 React component to load video from Vimeo or Youtube across any device.",
+                "homepage": "http://pedronauck.github.io/react-video",
                 "id": 25472140,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-07T01:05:20Z",
+                "open_issues": 9,
                 "owner": "pedronauck",
                 "repo": "react-video",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -726,12 +1105,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple HTML5, YouTube and Vimeo player",
+                "homepage": "https://plyr.io",
                 "id": 30794868,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T23:37:33Z",
+                "open_issues": 939,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29973
+                "stars": 29976,
+                "topics": [
+                  "html5-video",
+                  "javascript",
+                  "plyr",
+                  "vimeo",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -742,12 +1132,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "@videojs player component for @vuejs(3) and React.",
+                "homepage": "https://github.surmon.me/videojs-player",
                 "id": 69470049,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-08-23T11:04:12Z",
+                "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5441
+                "stars": 5441,
+                "topics": [
+                  "dash-player",
+                  "flv-player",
+                  "hls-player",
+                  "player",
+                  "player-video",
+                  "react-player",
+                  "react-video-player",
+                  "react-videojs",
+                  "video-player",
+                  "videojs",
+                  "videojs-flv",
+                  "videojs-player",
+                  "vue",
+                  "vue-component",
+                  "vue-hls",
+                  "vue-player",
+                  "vue-video-player",
+                  "vue-videojs",
+                  "web-media-player"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -758,12 +1173,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.",
+                "homepage": "https://hlsjs.video-dev.org/demo",
                 "id": 30064588,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:16:01Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:28:22Z",
+                "open_issues": 91,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16904
+                "stars": 16903,
+                "topics": [
+                  "ecmascript6",
+                  "hacktoberfest",
+                  "hls",
+                  "hlsjs",
+                  "html5",
+                  "http-live-streaming",
+                  "javascript",
+                  "mediasource",
+                  "mediasource-extensions",
+                  "native-hls",
+                  "playback",
+                  "player",
+                  "stream",
+                  "streaming",
+                  "video",
+                  "video-streaming"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -774,12 +1211,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player.",
+                "homepage": null,
                 "id": 119009165,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-07T22:03:47Z",
+                "open_issues": 141,
                 "owner": "redxtech",
                 "repo": "vue-plyr",
-                "stars": 786
+                "stars": 786,
+                "topics": [
+                  "audio",
+                  "audio-player",
+                  "component",
+                  "hacktoberfest",
+                  "plyr",
+                  "plyr-plugin",
+                  "video",
+                  "video-player",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -790,12 +1242,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍟  A Lightweight Video Player For Vue.js.",
+                "homepage": "https://core-player.github.io/vue-core-video-player/",
                 "id": 134208670,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2023-01-04T10:41:09Z",
+                "open_issues": 71,
                 "owner": "core-player",
                 "repo": "vue-core-video-player",
-                "stars": 480
+                "stars": 480,
+                "topics": [
+                  "video-player",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             },
@@ -806,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "No Longer Maintained",
+                "homepage": null,
                 "id": 18307175,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-11T13:50:25Z",
+                "open_issues": 72,
                 "owner": "jwplayer",
                 "repo": "jwplayer",
-                "stars": 2568
+                "stars": 2568,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
             }
@@ -825,15 +1290,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:41:27.170Z",
+    "last_updated": "2026-08-29T04:50:41.354Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of useful websites and resources for web developers",
+      "homepage": "https://itzashoffcl.github.io/awesome-webdev-resources/",
       "id": 836261145,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
+      "open_issues": 15,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
-      "stars": 224
+      "stars": 224,
+      "topics": [
+        "awesome-list",
+        "awesome-webdev-resources",
+        "css",
+        "html",
+        "javascript",
+        "react",
+        "resources-for-web",
+        "useful-websites",
+        "web-dev-resources",
+        "web-development",
+        "web-development-resources",
+        "web-resources",
+        "webdev-resources",
+        "website-resources"
+      ]
     },
     "original_repository_sha": "a6a6e3304d22b863cb1fd6290f3f02a41a04bd8f",
     "enhanced_repository": "enhansome/enhansome-webdev-resources",
