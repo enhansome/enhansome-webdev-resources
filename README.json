@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21986,
+                "stars": 21985,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25243,
+                "stars": 25242,
                 "topics": [
                   "gallery",
                   "image",
@@ -627,7 +627,7 @@
                 "open_issues": 14,
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3941,
+                "stars": 3940,
                 "topics": [
                   "carousel",
                   "gallery",
@@ -910,7 +910,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35401,
+                "stars": 35400,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1182,7 +1182,7 @@
                 "open_issues": 91,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16903,
+                "stars": 16904,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:41.354Z",
+    "last_updated": "2026-08-29T07:49:03.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
