@@ -123,7 +123,7 @@
                 "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7545,
+                "stars": 7544,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30713,
+                "stars": 30714,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25244,
+                "stars": 25246,
                 "topics": [
                   "gallery",
                   "image",
@@ -585,7 +585,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8708,
+                "stars": 8707,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -606,7 +606,7 @@
                 "open_issues": 80,
                 "owner": "neptunian",
                 "repo": "react-photo-gallery",
-                "stars": 2014,
+                "stars": 2015,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -627,7 +627,7 @@
                 "open_issues": 14,
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3940,
+                "stars": 3941,
                 "topics": [
                   "carousel",
                   "gallery",
@@ -788,10 +788,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2024-08-24T00:53:35Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7134,
+                "stars": 7133,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -833,7 +833,7 @@
                 "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8851,
+                "stars": 8853,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -1056,7 +1056,7 @@
                 "open_issues": 61,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10278,
+                "stars": 10276,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1114,7 @@
                 "open_issues": 939,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29976,
+                "stars": 29978,
                 "topics": [
                   "html5-video",
                   "javascript",
@@ -1141,7 +1141,7 @@
                 "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5441,
+                "stars": 5440,
                 "topics": [
                   "dash-player",
                   "flv-player",
@@ -1179,10 +1179,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:28:22Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16906,
+                "stars": 16907,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1275,7 +1275,7 @@
                 "open_issues": 72,
                 "owner": "jwplayer",
                 "repo": "jwplayer",
-                "stars": 2568,
+                "stars": 2567,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:32:57.736Z",
+    "last_updated": "2026-08-31T06:58:00.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
