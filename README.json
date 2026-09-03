@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30713,
+                "stars": 30715,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -812,7 +812,7 @@
                 "open_issues": 4,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14957,
+                "stars": 14958,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -833,7 +833,7 @@
                 "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8855,
+                "stars": 8857,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -859,7 +859,7 @@
                 "open_issues": 229,
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4401,
+                "stars": 4400,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18414,
+                "stars": 18413,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1053,10 +1053,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-11-13T19:27:44Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10278,
+                "stars": 10276,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1178,11 +1178,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T00:52:37Z",
-                "open_issues": 94,
+                "last_commit": "2026-09-02T14:26:47Z",
+                "open_issues": 92,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16913,
+                "stars": 16917,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:42:37.965Z",
+    "last_updated": "2026-09-03T05:42:08.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
