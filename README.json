@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4010,
+            "stars": 4009,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
@@ -123,7 +123,7 @@
                 "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7543,
+                "stars": 7544,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -200,7 +200,7 @@
                 "open_issues": 289,
                 "owner": "sahat",
                 "repo": "satellizer",
-                "stars": 7790,
+                "stars": 7789,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21984,
+                "stars": 21985,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30712,
+                "stars": 30711,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -489,7 +489,7 @@
                 "open_issues": 425,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1900,
+                "stars": 1899,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -585,7 +585,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8707,
+                "stars": 8706,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -749,7 +749,7 @@
                 "open_issues": 374,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28056,
+                "stars": 28052,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -833,7 +833,7 @@
                 "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8859,
+                "stars": 8856,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18413,
+                "stars": 18412,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 62,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10276,
+                "stars": 10275,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1114,7 @@
                 "open_issues": 939,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29982,
+                "stars": 29979,
                 "topics": [
                   "html5-video",
                   "javascript",
@@ -1141,7 +1141,7 @@
                 "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5442,
+                "stars": 5443,
                 "topics": [
                   "dash-player",
                   "flv-player",
@@ -1275,7 +1275,7 @@
                 "open_issues": 72,
                 "owner": "jwplayer",
                 "repo": "jwplayer",
-                "stars": 2567,
+                "stars": 2568,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:37:26.559Z",
+    "last_updated": "2026-09-06T05:50:04.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
