@@ -377,7 +377,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-01T11:54:45Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "omgovich",
                 "repo": "colord",
                 "stars": 1887,
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21982,
+                "stars": 21981,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30706,
+                "stars": 30704,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -513,8 +513,8 @@
                 "id": 26447951,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T07:16:53Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-11T05:19:49Z",
+                "open_issues": 17,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
                 "stars": 7854,
@@ -606,7 +606,7 @@
                 "open_issues": 80,
                 "owner": "neptunian",
                 "repo": "react-photo-gallery",
-                "stars": 2015,
+                "stars": 2014,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22475,
+                "stars": 22476,
                 "topics": [
                   "animation",
                   "css",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28052,
+                "stars": 28053,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -808,8 +808,8 @@
                 "id": 13030144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T00:26:32Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-11T00:20:53Z",
+                "open_issues": 8,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
                 "stars": 14960,
@@ -833,7 +833,7 @@
                 "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8858,
+                "stars": 8857,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -910,7 +910,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35391,
+                "stars": 35389,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -940,8 +940,8 @@
                 "id": 84919676,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T18:58:57Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-10T14:47:24Z",
+                "open_issues": 7,
                 "owner": "jscottsmith",
                 "repo": "react-scroll-parallax",
                 "stars": 2986,
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16280,
+                "stars": 16281,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 62,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10275,
+                "stars": 10276,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1178,11 +1178,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T11:35:35Z",
+                "last_commit": "2026-09-10T19:14:27Z",
                 "open_issues": 89,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16932,
+                "stars": 16937,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:52:48.327Z",
+    "last_updated": "2026-09-11T05:52:16.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
