@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25247,
+                "stars": 25249,
                 "topics": [
                   "gallery",
                   "image",
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22478,
+                "stars": 22477,
                 "topics": [
                   "animation",
                   "css",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28053,
+                "stars": 28052,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1023,7 +1023,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2674,
+                "stars": 2673,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1111,10 +1111,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T01:32:33Z",
-                "open_issues": 935,
+                "open_issues": 934,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29992,
+                "stars": 29993,
                 "topics": [
                   "html5-video",
                   "javascript",
@@ -1179,7 +1179,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T16:49:14Z",
-                "open_issues": 92,
+                "open_issues": 94,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 16940,
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:00:16.394Z",
+    "last_updated": "2026-09-14T06:07:50.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1299,7 +1299,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 223,
