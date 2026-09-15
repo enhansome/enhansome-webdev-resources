@@ -252,7 +252,7 @@
                 "open_issues": 20,
                 "owner": "Qix-",
                 "repo": "color",
-                "stars": 4935,
+                "stars": 4934,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -380,7 +380,7 @@
                 "open_issues": 26,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1887,
+                "stars": 1888,
                 "topics": [
                   "a11y",
                   "color",
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25249,
+                "stars": 25253,
                 "topics": [
                   "gallery",
                   "image",
@@ -627,7 +627,7 @@
                 "open_issues": 14,
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3941,
+                "stars": 3942,
                 "topics": [
                   "carousel",
                   "gallery",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28052,
+                "stars": 28054,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -833,7 +833,7 @@
                 "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8858,
+                "stars": 8859,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -859,7 +859,7 @@
                 "open_issues": 229,
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4399,
+                "stars": 4398,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -910,7 +910,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35389,
+                "stars": 35391,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18409,
+                "stars": 18408,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1114,7 +1114,7 @@
                 "open_issues": 934,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29993,
+                "stars": 29994,
                 "topics": [
                   "html5-video",
                   "javascript",
@@ -1178,8 +1178,8 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T16:49:14Z",
-                "open_issues": 94,
+                "last_commit": "2026-09-14T07:18:06Z",
+                "open_issues": 95,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 16940,
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:07:50.311Z",
+    "last_updated": "2026-09-15T06:06:16.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
