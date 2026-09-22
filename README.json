@@ -249,7 +249,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-11-14T18:40:24Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "Qix-",
                 "repo": "color",
                 "stars": 4932,
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21980,
+                "stars": 21981,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25257,
+                "stars": 25258,
                 "topics": [
                   "gallery",
                   "image",
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22477,
+                "stars": 22476,
                 "topics": [
                   "animation",
                   "css",
@@ -770,7 +770,7 @@
                 "open_issues": 47,
                 "owner": "pixelcog",
                 "repo": "parallax.js",
-                "stars": 3528,
+                "stars": 3527,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -812,7 +812,7 @@
                 "open_issues": 8,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14959,
+                "stars": 14958,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -833,7 +833,7 @@
                 "open_issues": 25,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8862,
+                "stars": 8863,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -910,7 +910,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35385,
+                "stars": 35384,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18407,
+                "stars": 18406,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16275,
+                "stars": 16278,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1114,7 +1114,7 @@
                 "open_issues": 935,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29999,
+                "stars": 30014,
                 "topics": [
                   "html5-video",
                   "javascript",
@@ -1178,11 +1178,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T21:13:06Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-21T11:37:56Z",
+                "open_issues": 96,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16948,
+                "stars": 16947,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:12:32.416Z",
+    "last_updated": "2026-09-22T06:05:12.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
