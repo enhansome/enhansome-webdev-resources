@@ -319,7 +319,7 @@
                 "open_issues": 7,
                 "owner": "linx4200",
                 "repo": "vue-color",
-                "stars": 2613,
+                "stars": 2612,
                 "topics": [
                   "color-picker",
                   "vue",
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21978,
+                "stars": 21977,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30704,
+                "stars": 30703,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25262,
+                "stars": 25265,
                 "topics": [
                   "gallery",
                   "image",
@@ -812,7 +812,7 @@
                 "open_issues": 4,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14958,
+                "stars": 14959,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16277,
+                "stars": 16276,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1110,8 +1110,8 @@
                 "id": 30794868,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T11:50:39Z",
-                "open_issues": 934,
+                "last_commit": "2026-09-27T23:02:12Z",
+                "open_issues": 935,
                 "owner": "sampotts",
                 "repo": "plyr",
                 "stars": 30017,
@@ -1182,7 +1182,7 @@
                 "open_issues": 100,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16956,
+                "stars": 16957,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:32:34.807Z",
+    "last_updated": "2026-09-28T06:43:02.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
