@@ -377,10 +377,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-01T11:54:45Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": [
                   "a11y",
                   "color",
@@ -419,7 +419,7 @@
                 "open_issues": 16,
                 "owner": "d3",
                 "repo": "d3-color",
-                "stars": 426,
+                "stars": 427,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30703,
+                "stars": 30704,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -485,8 +485,8 @@
                 "id": 41478768,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-03-05T14:16:42Z",
-                "open_issues": 425,
+                "last_commit": "2026-09-29T11:19:08Z",
+                "open_issues": 426,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
                 "stars": 1898,
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25266,
+                "stars": 25265,
                 "topics": [
                   "gallery",
                   "image",
@@ -606,7 +606,7 @@
                 "open_issues": 80,
                 "owner": "neptunian",
                 "repo": "react-photo-gallery",
-                "stars": 2014,
+                "stars": 2013,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -627,7 +627,7 @@
                 "open_issues": 14,
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3942,
+                "stars": 3941,
                 "topics": [
                   "carousel",
                   "gallery",
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22476,
+                "stars": 22477,
                 "topics": [
                   "animation",
                   "css",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28053,
+                "stars": 28062,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -830,10 +830,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-06-30T19:36:53Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8865,
+                "stars": 8866,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -1111,7 +1111,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-29T02:00:10Z",
-                "open_issues": 935,
+                "open_issues": 936,
                 "owner": "sampotts",
                 "repo": "plyr",
                 "stars": 30018,
@@ -1178,8 +1178,8 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T02:19:04Z",
-                "open_issues": 102,
+                "last_commit": "2026-09-29T21:12:19Z",
+                "open_issues": 101,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 16958,
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:48:35.723Z",
+    "last_updated": "2026-09-30T06:37:25.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
