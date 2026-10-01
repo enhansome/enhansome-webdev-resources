@@ -123,7 +123,7 @@
                 "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7538,
+                "stars": 7536,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -200,7 +200,7 @@
                 "open_issues": 289,
                 "owner": "sahat",
                 "repo": "satellizer",
-                "stars": 7787,
+                "stars": 7786,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21976,
+                "stars": 21975,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30704,
+                "stars": 30703,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -513,7 +513,7 @@
                 "id": 26447951,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T05:19:49Z",
+                "last_commit": "2026-10-01T06:20:49Z",
                 "open_issues": 17,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25265,
+                "stars": 25266,
                 "topics": [
                   "gallery",
                   "image",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28062,
+                "stars": 28064,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -812,7 +812,7 @@
                 "open_issues": 4,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14958,
+                "stars": 14959,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -833,7 +833,7 @@
                 "open_issues": 26,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8866,
+                "stars": 8868,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -1056,7 +1056,7 @@
                 "open_issues": 62,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10283,
+                "stars": 10284,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1178,7 +1178,7 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T21:12:19Z",
+                "last_commit": "2026-09-30T09:05:28Z",
                 "open_issues": 101,
                 "owner": "video-dev",
                 "repo": "hls.js",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T06:37:25.215Z",
+    "last_updated": "2026-10-01T07:08:21.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
