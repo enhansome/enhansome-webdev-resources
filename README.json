@@ -1114,7 +1114,7 @@
                 "open_issues": 936,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 30017,
+                "stars": 30016,
                 "topics": [
                   "html5-video",
                   "javascript",
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:02.416Z",
+    "last_updated": "2026-10-03T06:23:27.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
