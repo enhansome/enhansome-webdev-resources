@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21973,
+                "stars": 21972,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -517,7 +517,7 @@
                 "open_issues": 17,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7854,
+                "stars": 7856,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25267,
+                "stars": 25270,
                 "topics": [
                   "gallery",
                   "image",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28062,
+                "stars": 28061,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -812,7 +812,7 @@
                 "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14958,
+                "stars": 14957,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -859,7 +859,7 @@
                 "open_issues": 230,
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4398,
+                "stars": 4397,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1023,7 +1023,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2674,
+                "stars": 2673,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1053,7 +1053,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:25:13Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "cookpete",
                 "repo": "react-player",
                 "stars": 10285,
@@ -1290,7 +1290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:23:27.801Z",
+    "last_updated": "2026-10-04T06:46:33.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
