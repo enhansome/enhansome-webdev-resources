@@ -880,7 +880,7 @@
                 "open_issues": 30,
                 "owner": "Nolanus",
                 "repo": "ngx-page-scroll",
-                "stars": 471,
+                "stars": 470,
                 "topics": [
                   "anchor",
                   "angular",
@@ -910,7 +910,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35383,
+                "stars": 35382,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1053,7 +1053,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:25:13Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "cookpete",
                 "repo": "react-player",
                 "stars": 10286,
@@ -1114,7 +1114,7 @@
                 "open_issues": 435,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 30014,
+                "stars": 30008,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:29:13.435Z",
+    "last_updated": "2026-10-06T11:00:37.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
