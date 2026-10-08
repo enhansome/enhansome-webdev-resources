@@ -172,7 +172,7 @@
                 "open_issues": 3,
                 "owner": "unconed",
                 "repo": "ThreeAudio.js",
-                "stars": 542,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -197,10 +197,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2023-12-17T15:43:16Z",
-                "open_issues": 289,
+                "open_issues": 288,
                 "owner": "sahat",
                 "repo": "satellizer",
-                "stars": 7784,
+                "stars": 7783,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -249,7 +249,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:05:19Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "Qix-",
                 "repo": "color",
                 "stars": 4933,
@@ -380,7 +380,7 @@
                 "open_issues": 26,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": [
                   "a11y",
                   "color",
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21971,
+                "stars": 21969,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30698,
+                "stars": 30697,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -485,11 +485,11 @@
                 "id": 41478768,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T18:10:35Z",
-                "open_issues": 418,
+                "last_commit": "2026-10-07T12:14:22Z",
+                "open_issues": 416,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1898,
+                "stars": 1897,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -559,7 +559,7 @@
                 "open_issues": 170,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25269,
+                "stars": 25271,
                 "topics": [
                   "gallery",
                   "image",
@@ -585,7 +585,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8702,
+                "stars": 8701,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -606,7 +606,7 @@
                 "open_issues": 80,
                 "owner": "neptunian",
                 "repo": "react-photo-gallery",
-                "stars": 2013,
+                "stars": 2014,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28058,
+                "stars": 28057,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -859,7 +859,7 @@
                 "open_issues": 230,
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4398,
+                "stars": 4399,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -910,7 +910,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35383,
+                "stars": 35382,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18403,
+                "stars": 18402,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16275,
+                "stars": 16276,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 66,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10287,
+                "stars": 10286,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1110,8 +1110,8 @@
                 "id": 30794868,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T00:23:31Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-07T20:28:34Z",
+                "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
                 "stars": 30002,
@@ -1180,11 +1180,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T06:53:32Z",
+                "last_commit": "2026-10-07T19:05:29Z",
                 "open_issues": 107,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16961,
+                "stars": 16965,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1222,7 +1222,7 @@
                 "open_issues": 141,
                 "owner": "redxtech",
                 "repo": "vue-plyr",
-                "stars": 785,
+                "stars": 784,
                 "topics": [
                   "audio",
                   "audio-player",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:09:32.122Z",
+    "last_updated": "2026-10-08T07:16:11.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1301,7 +1301,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 20,
+      "open_issues": 22,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 227,
