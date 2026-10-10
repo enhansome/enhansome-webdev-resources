@@ -252,7 +252,7 @@
                 "open_issues": 20,
                 "owner": "Qix-",
                 "repo": "color",
-                "stars": 4934,
+                "stars": 4933,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -319,7 +319,7 @@
                 "open_issues": 7,
                 "owner": "linx4200",
                 "repo": "vue-color",
-                "stars": 2612,
+                "stars": 2611,
                 "topics": [
                   "color-picker",
                   "vue",
@@ -377,7 +377,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-01T11:54:45Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "omgovich",
                 "repo": "colord",
                 "stars": 1892,
@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21968,
+                "stars": 21967,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30696,
+                "stars": 30694,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -660,7 +660,7 @@
                 "open_issues": 0,
                 "owner": "frontend-collective",
                 "repo": "react-image-lightbox",
-                "stars": 1278,
+                "stars": 1277,
                 "topics": [
                   "component",
                   "image",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28058,
+                "stars": 28056,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -770,7 +770,7 @@
                 "open_issues": 47,
                 "owner": "pixelcog",
                 "repo": "parallax.js",
-                "stars": 3526,
+                "stars": 3525,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -791,7 +791,7 @@
                 "open_issues": 77,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7127,
+                "stars": 7125,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -812,7 +812,7 @@
                 "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14955,
+                "stars": 14954,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -907,10 +907,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-20T10:56:49Z",
-                "open_issues": 129,
+                "open_issues": 131,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35380,
+                "stars": 35378,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -944,7 +944,7 @@
                 "open_issues": 7,
                 "owner": "jscottsmith",
                 "repo": "react-scroll-parallax",
-                "stars": 2986,
+                "stars": 2985,
                 "topics": [
                   "animation",
                   "banner",
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18402,
+                "stars": 18401,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16275,
+                "stars": 16273,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 66,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10286,
+                "stars": 10289,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1114,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 30004,
+                "stars": 30002,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1143,7 +1143,7 @@
                 "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5442,
+                "stars": 5443,
                 "topics": [
                   "dash-player",
                   "flv-player",
@@ -1181,10 +1181,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T12:32:46Z",
-                "open_issues": 107,
+                "open_issues": 110,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16971,
+                "stars": 16970,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1277,7 +1277,7 @@
                 "open_issues": 72,
                 "owner": "jwplayer",
                 "repo": "jwplayer",
-                "stars": 2567,
+                "stars": 2566,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:19:22.965Z",
+    "last_updated": "2026-10-10T06:58:25.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
