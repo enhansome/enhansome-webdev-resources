@@ -447,7 +447,7 @@
                 "open_issues": 214,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21967,
+                "stars": 21966,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30694,
+                "stars": 30693,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -559,7 +559,7 @@
                 "open_issues": 171,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25273,
+                "stars": 25274,
                 "topics": [
                   "gallery",
                   "image",
@@ -833,7 +833,7 @@
                 "open_issues": 26,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8870,
+                "stars": 8872,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -974,7 +974,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18400,
+                "stars": 18399,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1114,7 +1114,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 30002,
+                "stars": 30000,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1184,7 +1184,7 @@
                 "open_issues": 112,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16969,
+                "stars": 16975,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:04:21.016Z",
+    "last_updated": "2026-10-12T07:16:54.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1301,7 +1301,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 21,
+      "open_issues": 19,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 227,
