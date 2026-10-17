@@ -225,10 +225,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5255,
+                "stars": 5254,
                 "topics": [
                   "color",
                   "javascript"
@@ -517,7 +517,7 @@
                 "open_issues": 18,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7856,
+                "stars": 7855,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -559,7 +559,7 @@
                 "open_issues": 171,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25275,
+                "stars": 25277,
                 "topics": [
                   "gallery",
                   "image",
@@ -585,7 +585,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8698,
+                "stars": 8697,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22474,
+                "stars": 22473,
                 "topics": [
                   "animation",
                   "css",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28059,
+                "stars": 28057,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -770,7 +770,7 @@
                 "open_issues": 47,
                 "owner": "pixelcog",
                 "repo": "parallax.js",
-                "stars": 3524,
+                "stars": 3523,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -808,8 +808,8 @@
                 "id": 13030144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:01:22Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-16T11:44:53Z",
+                "open_issues": 1,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
                 "stars": 14955,
@@ -833,7 +833,7 @@
                 "open_issues": 27,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8877,
+                "stars": 8878,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -859,7 +859,7 @@
                 "open_issues": 230,
                 "owner": "fisshy",
                 "repo": "react-scroll",
-                "stars": 4398,
+                "stars": 4397,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -907,10 +907,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-20T10:56:49Z",
-                "open_issues": 132,
+                "open_issues": 134,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35377,
+                "stars": 35375,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16273,
+                "stars": 16269,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1023,7 +1023,7 @@
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2668,
+                "stars": 2666,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1056,7 +1056,7 @@
                 "open_issues": 66,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10291,
+                "stars": 10292,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1114,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29996,
+                "stars": 29993,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1180,11 +1180,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T19:10:03Z",
-                "open_issues": 121,
+                "last_commit": "2026-10-16T19:40:44Z",
+                "open_issues": 126,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 16983,
+                "stars": 16985,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:46:17.342Z",
+    "last_updated": "2026-10-17T05:31:36.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1301,7 +1301,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 227,
