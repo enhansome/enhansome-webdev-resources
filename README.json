@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4008,
+            "stars": 4007,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
@@ -76,7 +76,7 @@
             "open_issues": 3,
             "owner": "Anmol-Baranwal",
             "repo": "Awesome-Illustrations-4Projects",
-            "stars": 190,
+            "stars": 189,
             "topics": [
               "assets",
               "awesome",
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30688,
+                "stars": 30687,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -489,7 +489,7 @@
                 "open_issues": 416,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1896,
+                "stars": 1895,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -517,7 +517,7 @@
                 "open_issues": 18,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7851,
+                "stars": 7850,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -791,7 +791,7 @@
                 "open_issues": 77,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7125,
+                "stars": 7124,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -808,8 +808,8 @@
                 "id": 13030144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:13:52Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-21T07:29:43Z",
+                "open_issues": 1,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
                 "stars": 14952,
@@ -910,7 +910,7 @@
                 "open_issues": 134,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35375,
+                "stars": 35373,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16271,
+                "stars": 16270,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1019,7 +1019,7 @@
                 "id": 82093328,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-04-29T09:46:30Z",
+                "last_commit": "2026-10-21T13:13:44Z",
                 "open_issues": 94,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
@@ -1053,7 +1053,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:25:13Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "cookpete",
                 "repo": "react-player",
                 "stars": 10291,
@@ -1180,11 +1180,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T02:01:48Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-22T00:10:46Z",
+                "open_issues": 110,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17000,
+                "stars": 17002,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:56:48.843Z",
+    "last_updated": "2026-10-22T06:01:42.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1304,7 +1304,7 @@
       "open_issues": 21,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
-      "stars": 229,
+      "stars": 230,
       "topics": [
         "awesome-list",
         "awesome-webdev-resources",
