@@ -123,7 +123,7 @@
                 "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7537,
+                "stars": 7538,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -273,7 +273,7 @@
                 "open_issues": 20,
                 "owner": "Fooidge",
                 "repo": "PleaseJS",
-                "stars": 2262,
+                "stars": 2261,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -380,7 +380,7 @@
                 "open_issues": 26,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1892,
+                "stars": 1893,
                 "topics": [
                   "a11y",
                   "color",
@@ -585,7 +585,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8697,
+                "stars": 8695,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22472,
+                "stars": 22469,
                 "topics": [
                   "animation",
                   "css",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28051,
+                "stars": 28052,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -808,8 +808,8 @@
                 "id": 13030144,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T07:29:43Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-22T13:44:12Z",
+                "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
                 "stars": 14952,
@@ -910,7 +910,7 @@
                 "open_issues": 134,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35373,
+                "stars": 35371,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1002,7 +1002,7 @@
                 "open_issues": 22,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16270,
+                "stars": 16273,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1019,8 +1019,8 @@
                 "id": 82093328,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:13:44Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-22T19:39:13Z",
+                "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
                 "stars": 2665,
@@ -1053,10 +1053,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:25:13Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10291,
+                "stars": 10293,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1114,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29998,
+                "stars": 29996,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1180,11 +1180,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T00:10:46Z",
-                "open_issues": 110,
+                "last_commit": "2026-10-22T19:34:20Z",
+                "open_issues": 109,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17002,
+                "stars": 17003,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:01:42.796Z",
+    "last_updated": "2026-10-23T05:58:04.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
