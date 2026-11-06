@@ -380,7 +380,7 @@
                 "open_issues": 29,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1892,
+                "stars": 1893,
                 "topics": [
                   "a11y",
                   "color",
@@ -447,7 +447,7 @@
                 "open_issues": 213,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21958,
+                "stars": 21957,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -489,7 +489,7 @@
                 "open_issues": 415,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1894,
+                "stars": 1893,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -517,7 +517,7 @@
                 "open_issues": 19,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7846,
+                "stars": 7847,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -719,7 +719,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22462,
+                "stars": 22464,
                 "topics": [
                   "animation",
                   "css",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28045,
+                "stars": 28047,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -791,7 +791,7 @@
                 "open_issues": 77,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7117,
+                "stars": 7116,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -999,7 +999,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-25T21:28:00Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
                 "stars": 16275,
@@ -1056,7 +1056,7 @@
                 "open_issues": 68,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10291,
+                "stars": 10289,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1114,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29990,
+                "stars": 29989,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1180,11 +1180,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T06:29:02Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-05T12:26:26Z",
+                "open_issues": 109,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17035,
+                "stars": 17036,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:52:08.515Z",
+    "last_updated": "2026-11-06T07:51:59.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1304,7 +1304,7 @@
       "open_issues": 21,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
-      "stars": 230,
+      "stars": 231,
       "topics": [
         "awesome-list",
         "awesome-webdev-resources",
