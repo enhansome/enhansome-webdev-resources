@@ -200,7 +200,7 @@
                 "open_issues": 288,
                 "owner": "sahat",
                 "repo": "satellizer",
-                "stars": 7781,
+                "stars": 7780,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -225,7 +225,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "bgrins",
                 "repo": "TinyColor",
                 "stars": 5253,
@@ -371,13 +371,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions",
+                "description": "👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions",
                 "homepage": "https://colord.omgovich.ru",
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T11:54:45Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-09T02:44:19Z",
+                "open_issues": 22,
                 "owner": "omgovich",
                 "repo": "colord",
                 "stars": 1893,
@@ -447,7 +447,7 @@
                 "open_issues": 213,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21956,
+                "stars": 21955,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -468,7 +468,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30689,
+                "stars": 30688,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -627,7 +627,7 @@
                 "open_issues": 14,
                 "owner": "xiaolin",
                 "repo": "react-image-gallery",
-                "stars": 3942,
+                "stars": 3941,
                 "topics": [
                   "carousel",
                   "gallery",
@@ -749,7 +749,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28047,
+                "stars": 28048,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 68,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10289,
+                "stars": 10290,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1181,7 +1181,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T12:26:26Z",
-                "open_issues": 111,
+                "open_issues": 114,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 17038,
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:12:36.810Z",
+    "last_updated": "2026-11-09T07:53:21.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1301,7 +1301,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 231,
