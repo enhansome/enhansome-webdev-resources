@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4007,
+            "stars": 4008,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
@@ -372,32 +372,35 @@
               "repo_info": {
                 "archived": false,
                 "description": "👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions",
-                "homepage": "https://colord.omgovich.ru",
+                "homepage": "https://colord.dev",
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T00:53:31Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-12T01:49:40Z",
+                "open_issues": 14,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "a11y",
+                  "cmyk",
                   "color",
+                  "color-conversion",
+                  "color-manipulation",
                   "color-names",
-                  "converter",
                   "css-color",
-                  "hacktoberfest",
                   "hex",
                   "hsl",
                   "hsv",
                   "hwb",
+                  "javascript",
                   "lab",
                   "lch",
-                  "parser",
+                  "oklab",
+                  "oklch",
                   "rgb",
-                  "tiny",
-                  "xyz",
+                  "typescript",
+                  "wcag",
                   "zero-dependency"
                 ]
               },
@@ -556,10 +559,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-12-04T07:31:46Z",
-                "open_issues": 172,
+                "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25300,
+                "stars": 25301,
                 "topics": [
                   "gallery",
                   "image",
@@ -719,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22467,
+                "stars": 22468,
                 "topics": [
                   "animation",
                   "css",
@@ -770,7 +773,7 @@
                 "open_issues": 47,
                 "owner": "pixelcog",
                 "repo": "parallax.js",
-                "stars": 3523,
+                "stars": 3524,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -812,7 +815,7 @@
                 "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14962,
+                "stars": 14961,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -827,13 +830,13 @@
                 "description": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
                 "homepage": "https://scroll.locomotive.ca",
                 "id": 70737507,
-                "language": "JavaScript",
+                "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-11-11T05:29:43Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-11T22:30:05Z",
+                "open_issues": 26,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8900,
+                "stars": 8897,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -910,7 +913,7 @@
                 "open_issues": 137,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35356,
+                "stars": 35355,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -974,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18393,
+                "stars": 18392,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1002,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16274,
+                "stars": 16275,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1056,7 +1059,7 @@
                 "open_issues": 68,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10290,
+                "stars": 10292,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1114,7 +1117,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29989,
+                "stars": 29988,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1143,7 +1146,7 @@
                 "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5435,
+                "stars": 5434,
                 "topics": [
                   "dash-player",
                   "flv-player",
@@ -1181,10 +1184,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-10T07:29:23Z",
-                "open_issues": 117,
+                "open_issues": 120,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17045,
+                "stars": 17047,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1292,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:42:01.250Z",
+    "last_updated": "2026-11-12T08:12:26.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
