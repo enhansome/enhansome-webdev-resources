@@ -376,11 +376,11 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T01:49:40Z",
+                "last_commit": "2026-11-12T09:20:23Z",
                 "open_issues": 14,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1894,
+                "stars": 1895,
                 "topics": [
                   "a11y",
                   "cmyk",
@@ -471,7 +471,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30685,
+                "stars": 30683,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -562,7 +562,7 @@
                 "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25301,
+                "stars": 25303,
                 "topics": [
                   "gallery",
                   "image",
@@ -663,7 +663,7 @@
                 "open_issues": 0,
                 "owner": "frontend-collective",
                 "repo": "react-image-lightbox",
-                "stars": 1273,
+                "stars": 1274,
                 "topics": [
                   "component",
                   "image",
@@ -722,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22468,
+                "stars": 22469,
                 "topics": [
                   "animation",
                   "css",
@@ -832,11 +832,11 @@
                 "id": 70737507,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-11-11T22:30:05Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-13T03:41:46Z",
+                "open_issues": 27,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8897,
+                "stars": 8898,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -947,7 +947,7 @@
                 "open_issues": 8,
                 "owner": "jscottsmith",
                 "repo": "react-scroll-parallax",
-                "stars": 2990,
+                "stars": 2989,
                 "topics": [
                   "animation",
                   "banner",
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18392,
+                "stars": 18391,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16275,
+                "stars": 16273,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29988,
+                "stars": 29983,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1146,7 +1146,7 @@
                 "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5434,
+                "stars": 5435,
                 "topics": [
                   "dash-player",
                   "flv-player",
@@ -1183,11 +1183,11 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T07:29:23Z",
-                "open_issues": 120,
+                "last_commit": "2026-11-12T12:34:50Z",
+                "open_issues": 125,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17047,
+                "stars": 17050,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:12:26.882Z",
+    "last_updated": "2026-11-13T07:49:45.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
