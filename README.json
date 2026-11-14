@@ -123,7 +123,7 @@
                 "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7537,
+                "stars": 7536,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -376,8 +376,8 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T09:20:23Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-14T01:38:53Z",
+                "open_issues": 15,
                 "owner": "omgovich",
                 "repo": "colord",
                 "stars": 1895,
@@ -471,7 +471,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30683,
+                "stars": 30682,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 19,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7849,
+                "stars": 7848,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -562,7 +562,7 @@
                 "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25303,
+                "stars": 25304,
                 "topics": [
                   "gallery",
                   "image",
@@ -752,7 +752,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28051,
+                "stars": 28053,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -794,7 +794,7 @@
                 "open_issues": 77,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7117,
+                "stars": 7115,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -830,10 +830,10 @@
                 "description": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
                 "homepage": "https://scroll.locomotive.ca",
                 "id": 70737507,
-                "language": "SCSS",
+                "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T03:41:46Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-13T22:53:51Z",
+                "open_issues": 4,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
                 "stars": 8898,
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18391,
+                "stars": 18390,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29983,
+                "stars": 29980,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1183,8 +1183,8 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T12:34:50Z",
-                "open_issues": 125,
+                "last_commit": "2026-11-13T20:51:01Z",
+                "open_issues": 128,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 17050,
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:49:45.200Z",
+    "last_updated": "2026-11-14T07:32:11.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1304,7 +1304,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 231,
