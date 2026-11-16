@@ -228,7 +228,7 @@
                 "open_issues": 109,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5253,
+                "stars": 5251,
                 "topics": [
                   "color",
                   "javascript"
@@ -376,8 +376,8 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T14:32:31Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-16T01:16:56Z",
+                "open_issues": 15,
                 "owner": "omgovich",
                 "repo": "colord",
                 "stars": 1896,
@@ -471,7 +471,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30682,
+                "stars": 30683,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -588,7 +588,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8692,
+                "stars": 8691,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -722,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22470,
+                "stars": 22469,
                 "topics": [
                   "animation",
                   "css",
@@ -752,7 +752,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28054,
+                "stars": 28056,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18389,
+                "stars": 18388,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16272,
+                "stars": 16275,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29983,
+                "stars": 29986,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1183,8 +1183,8 @@
                 "id": 30064588,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T20:51:01Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-15T17:30:31Z",
+                "open_issues": 133,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 17053,
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:46:51.652Z",
+    "last_updated": "2026-11-16T07:53:13.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1304,7 +1304,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-22T11:42:34Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
       "stars": 231,
