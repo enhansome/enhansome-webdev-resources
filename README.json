@@ -376,11 +376,11 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T01:16:56Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-17T01:00:56Z",
+                "open_issues": 17,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1896,
+                "stars": 1897,
                 "topics": [
                   "a11y",
                   "cmyk",
@@ -450,7 +450,7 @@
                 "open_issues": 213,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21959,
+                "stars": 21957,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -471,7 +471,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30683,
+                "stars": 30682,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -489,10 +489,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-07T12:14:22Z",
-                "open_issues": 416,
+                "open_issues": 415,
                 "owner": "valor-software",
                 "repo": "ng2-file-upload",
-                "stars": 1893,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -562,7 +562,7 @@
                 "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25303,
+                "stars": 25305,
                 "topics": [
                   "gallery",
                   "image",
@@ -722,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22469,
+                "stars": 22471,
                 "topics": [
                   "animation",
                   "css",
@@ -832,8 +832,8 @@
                 "id": 70737507,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T22:53:51Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-16T23:58:44Z",
+                "open_issues": 6,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
                 "stars": 8899,
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18388,
+                "stars": 18387,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16275,
+                "stars": 16274,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29986,
+                "stars": 29985,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1184,10 +1184,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T17:30:31Z",
-                "open_issues": 133,
+                "open_issues": 137,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17053,
+                "stars": 17057,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:53:13.782Z",
+    "last_updated": "2026-11-17T09:05:38.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
@@ -1307,7 +1307,7 @@
       "open_issues": 26,
       "owner": "ItzAshOffcl",
       "repo": "awesome-webdev-resources",
-      "stars": 231,
+      "stars": 232,
       "topics": [
         "awesome-list",
         "awesome-webdev-resources",
