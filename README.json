@@ -376,11 +376,11 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T18:30:26Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-19T01:25:13Z",
+                "open_issues": 6,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1900,
+                "stars": 1902,
                 "topics": [
                   "a11y",
                   "cmyk",
@@ -450,7 +450,7 @@
                 "open_issues": 213,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21957,
+                "stars": 21956,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -562,7 +562,7 @@
                 "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25308,
+                "stars": 25310,
                 "topics": [
                   "gallery",
                   "image",
@@ -752,7 +752,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28058,
+                "stars": 28057,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -815,7 +815,7 @@
                 "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14963,
+                "stars": 14965,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -836,7 +836,7 @@
                 "open_issues": 6,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8898,
+                "stars": 8897,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16275,
+                "stars": 16274,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1184,7 +1184,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T13:04:03Z",
-                "open_issues": 142,
+                "open_issues": 145,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 17061,
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:27:49.663Z",
+    "last_updated": "2026-11-19T08:40:25.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
