@@ -123,7 +123,7 @@
                 "open_issues": 9,
                 "owner": "michaelvillar",
                 "repo": "dynamics.js",
-                "stars": 7536,
+                "stars": 7535,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -151,7 +151,7 @@
                 "open_issues": 12,
                 "owner": "jussi-kalliokoski",
                 "repo": "audiolib.js",
-                "stars": 672,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -228,7 +228,7 @@
                 "open_issues": 109,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5251,
+                "stars": 5250,
                 "topics": [
                   "color",
                   "javascript"
@@ -273,7 +273,7 @@
                 "open_issues": 20,
                 "owner": "Fooidge",
                 "repo": "PleaseJS",
-                "stars": 2261,
+                "stars": 2260,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -294,7 +294,7 @@
                 "open_issues": 28,
                 "owner": "scttcper",
                 "repo": "ngx-color",
-                "stars": 444,
+                "stars": 443,
                 "topics": [
                   "angular",
                   "color-picker",
@@ -319,7 +319,7 @@
                 "open_issues": 7,
                 "owner": "linx4200",
                 "repo": "vue-color",
-                "stars": 2615,
+                "stars": 2614,
                 "topics": [
                   "color-picker",
                   "vue",
@@ -376,11 +376,11 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T01:25:13Z",
+                "last_commit": "2026-11-19T13:32:13Z",
                 "open_issues": 6,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1902,
+                "stars": 1901,
                 "topics": [
                   "a11y",
                   "cmyk",
@@ -471,7 +471,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30683,
+                "stars": 30680,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 19,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7849,
+                "stars": 7848,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -562,7 +562,7 @@
                 "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25310,
+                "stars": 25312,
                 "topics": [
                   "gallery",
                   "image",
@@ -588,7 +588,7 @@
                 "open_issues": 109,
                 "owner": "tuupola",
                 "repo": "lazyload",
-                "stars": 8691,
+                "stars": 8690,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -609,7 +609,7 @@
                 "open_issues": 80,
                 "owner": "neptunian",
                 "repo": "react-photo-gallery",
-                "stars": 2014,
+                "stars": 2013,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -722,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22472,
+                "stars": 22471,
                 "topics": [
                   "animation",
                   "css",
@@ -752,7 +752,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28057,
+                "stars": 28056,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -815,7 +815,7 @@
                 "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14965,
+                "stars": 14964,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -836,7 +836,7 @@
                 "open_issues": 6,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8897,
+                "stars": 8896,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -883,7 +883,7 @@
                 "open_issues": 30,
                 "owner": "Nolanus",
                 "repo": "ngx-page-scroll",
-                "stars": 471,
+                "stars": 469,
                 "topics": [
                   "anchor",
                   "angular",
@@ -913,7 +913,7 @@
                 "open_issues": 137,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35354,
+                "stars": 35353,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18388,
+                "stars": 18387,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16274,
+                "stars": 16276,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 1,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29985,
+                "stars": 29984,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:40:25.654Z",
+    "last_updated": "2026-11-20T08:25:22.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
