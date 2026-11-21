@@ -684,7 +684,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Motion One](https://motion.dev/)                                                                                | A new animation library built on the Web Animations API for tiny size and huge performance.                                |
 | [countUp.js](https://inorganik.github.io/countUp.js/)                                                            | Animate numerical values by counting to them.                                                                              |
 | [Odometer](https://github.hubspot.com/odometer/docs/welcome/)                                                    | A JavaScript and CSS library for smoothly transitioning numbers.                                                           |
-| [dynamics.js](https://github.com/michaelvillar/dynamics.js/) ⭐ 7,535 \| 🐛 9 \| 🌐 CoffeeScript \| 📅 2019-02-26 | Create physics-based animations with a JavaScript library.                                                                 |
+| [dynamics.js](https://github.com/michaelvillar/dynamics.js/) ⭐ 7,534 \| 🐛 9 \| 🌐 CoffeeScript \| 📅 2019-02-26 | Create physics-based animations with a JavaScript library.                                                                 |
 | [elevator.js](https://tholman.com/elevator.js/)                                                                  | A "back to top" button with an elevator music feature for smooth scrolling.                                                |
 | [theatre](https://theatrejs.com/)                                                                                | An animation library for high-fidelity motion graphics and intricate movement.                                             |
 | [snabbt.js](https://daniel-lundin.github.io/snabbt.js/)                                                          | Fast animations with JavaScript and CSS transforms.                                                                        |
@@ -713,7 +713,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Passport.js](http://www.passportjs.org/)                                                             | Middleware for Node.js that simplifies the implementation of authentication strategies in your application. |
 | [NextAuth.js](https://next-auth.js.org/)                                                              | Authentication for Next.js applications with built-in support for various providers.                        |
 | [Auth.js](https://authjs.dev/)                                                                        | A flexible and easy-to-use authentication library for modern web applications.                              |
-| [Satellizer](https://github.com/sahat/satellizer) ⭐ 7,781 \| 🐛 288 \| 🌐 TypeScript \| 📅 2023-12-17 | An AngularJS authentication library for handling social login integrations and user authentication.         |
+| [Satellizer](https://github.com/sahat/satellizer) ⭐ 7,780 \| 🐛 288 \| 🌐 TypeScript \| 📅 2023-12-17 | An AngularJS authentication library for handling social login integrations and user authentication.         |
 
 <p align="right"><a href="#table-of-contents">[🡅 back to top]</a></p>
 
@@ -804,7 +804,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Glide.js](https://glidejs.com/)                                                                                           | A responsive and touch-friendly JavaScript slider for creating image carousels.    |
 | [Vanilla LazyLoad](https://github.com/verlok/vanilla-lazyload) ⭐ 7,848 \| 🐛 19 \| 🌐 JavaScript \| 📅 2026-11-04          | A lightweight, dependency-free lazy loading library for images and other content.  |
-| [PhotoSwipe](https://github.com/dimsemenov/photoswipe) ⭐ 25,312 \| 🐛 173 \| 🌐 JavaScript \| 📅 2025-12-04                | A JavaScript image gallery for mobile and desktop with touch gestures.             |
+| [PhotoSwipe](https://github.com/dimsemenov/photoswipe) ⭐ 25,314 \| 🐛 173 \| 🌐 JavaScript \| 📅 2025-12-04                | A JavaScript image gallery for mobile and desktop with touch gestures.             |
 | [LazyLoad by Tuupola](https://github.com/tuupola/lazyload) ⭐ 8,690 \| 🐛 109 \| 🌐 JavaScript \| 📅 2023-12-05             | A fast and lightweight lazy loading library for images and iframes.                |
 | [LightGallery](https://www.lightgalleryjs.com/)                                                                            | A powerful and lightweight JavaScript image and video gallery plugin.              |
 | [PhotoSwipe](https://photoswipe.com/)                                                                                      | A JavaScript image gallery with touch gestures for mobile and desktop.             |
@@ -821,14 +821,14 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | Library                                                                                                                   | Description                                                               |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [ScrollReveal](https://github.com/jlmakes/scrollreveal) ⭐ 22,471 \| 🐛 41 \| 🌐 JavaScript \| 📅 2026-11-11               | A library to animate elements as they scroll into view.                   |
-| [AOS (Animate On Scroll)](https://github.com/michalsnik/aos) ⭐ 28,056 \| 🐛 375 \| 🌐 JavaScript \| 📅 2024-03-26         | Animate elements on your website as you scroll.                           |
+| [AOS (Animate On Scroll)](https://github.com/michalsnik/aos) ⭐ 28,055 \| 🐛 375 \| 🌐 JavaScript \| 📅 2024-03-26         | Animate elements on your website as you scroll.                           |
 | [Parallax.js](https://github.com/pixelcog/parallax.js) ⭐ 3,524 \| 🐛 47 \| 🌐 JavaScript \| 📅 2022-05-11                 | A simple, lightweight parallax scrolling library.                         |
 | [Rellax](https://github.com/dixonandmoe/rellax) ⭐ 7,115 \| 🐛 77 \| 🌐 HTML \| 📅 2024-08-24                              | A buttery smooth parallax library for any website.                        |
 | [ScrollMagic](https://github.com/janpaepke/ScrollMagic) ⭐ 14,964 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-11-04                | A JavaScript library for magical scroll interactions.                     |
-| [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll) ⭐ 8,896 \| 🐛 6 \| 🌐 TypeScript \| 📅 2026-11-16 | A smooth scrolling library built on the Intersection Observer API.        |
+| [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll) ⭐ 8,898 \| 🐛 6 \| 🌐 TypeScript \| 📅 2026-11-16 | A smooth scrolling library built on the Intersection Observer API.        |
 | [React Scroll](https://github.com/fisshy/react-scroll) ⭐ 4,395 \| 🐛 229 \| 🌐 JavaScript \| 📅 2025-02-19                | React components for smooth scrolling navigation.                         |
 | [Ngx Page Scroll](https://github.com/Nolanus/ngx-page-scroll) ⭐ 469 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-07-16            | Angular service for smooth scrolling to elements.                         |
-| [FullPage.js](https://github.com/alvarotrigo/fullPage.js) ⭐ 35,353 \| 🐛 137 \| 🌐 JavaScript \| 📅 2026-09-20            | Create full-screen scrolling websites with sections that scroll.          |
+| [FullPage.js](https://github.com/alvarotrigo/fullPage.js) ⭐ 35,354 \| 🐛 137 \| 🌐 JavaScript \| 📅 2026-09-20            | Create full-screen scrolling websites with sections that scroll.          |
 | [Parallax Scroll](https://github.com/jscottsmith/react-scroll-parallax) ⭐ 2,989 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-10-28 | React components for scrolling/parallax effects.                          |
 | [Skrollr](https://github.com/Prinzhorn/skrollr) ⚠️ Archived                                                               | Stand-alone parallax scrolling JavaScript library for mobile and desktop. |
 
@@ -838,7 +838,7 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 | Library                                                                                                       | Description                                                                                           |
 | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [Typed.js](https://github.com/mattboldt/typed.js) ⭐ 16,276 \| 🐛 24 \| 🌐 JavaScript \| 📅 2026-01-25         | A JavaScript library for creating customizable typing animations with various effects.                |
+| [Typed.js](https://github.com/mattboldt/typed.js) ⭐ 16,280 \| 🐛 24 \| 🌐 JavaScript \| 📅 2026-01-25         | A JavaScript library for creating customizable typing animations with various effects.                |
 | [Typewriter.js](https://github.com/tameemsafi/typewriterjs) ⭐ 2,663 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-10-22 | A simple JavaScript library for creating typewriter-style animations with configurable options.       |
 | [TypeIt](https://typeitjs.com/)                                                                               | A versatile JavaScript library for creating dynamic and customizable typing animations on web pages.  |
 | [Typify.js](https://devsk18.github.io/typify.js/)                                                             | A lightweight JavaScript library for creating typewriter-style animations with minimal configuration. |
@@ -851,12 +851,12 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Video.js](https://videojs.com/)                                                                                         | An open-source HTML5 video player that supports a wide range of video formats and streaming protocols.                                       |
 | [Plyr](https://plyr.io/)                                                                                                 | A simple, customizable, and lightweight HTML5 media player for video, audio, and more.                                                       |
-| [React Player](https://github.com/cookpete/react-player) ⭐ 10,294 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-10-03             | A React component for playing a variety of URLs, including YouTube, Facebook, and Vimeo videos.                                              |
+| [React Player](https://github.com/cookpete/react-player) ⭐ 10,293 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-10-03             | A React component for playing a variety of URLs, including YouTube, Facebook, and Vimeo videos.                                              |
 | [React Video](https://github.com/pedronauck/react-video) ⭐ 273 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-11-10                 | A simple React component for embedding video players.                                                                                        |
-| [React Plyr](https://github.com/sampotts/plyr) ⭐ 29,984 \| 🐛 1 \| 🌐 JavaScript \| 📅 2026-10-21                        | A React wrapper for the Plyr HTML5 media player.                                                                                             |
+| [React Plyr](https://github.com/sampotts/plyr) ⭐ 29,983 \| 🐛 1 \| 🌐 JavaScript \| 📅 2026-10-21                        | A React wrapper for the Plyr HTML5 media player.                                                                                             |
 | [ng-video](https://www.npmjs.com/package/ng-video)                                                                       | A lightweight Angular library for embedding and controlling HTML5 videos.                                                                    |
 | [Vue-Video-Player](https://github.com/surmon-china/vue-video-player) ⭐ 5,434 \| 🐛 200 \| 🌐 TypeScript \| 📅 2022-08-23 | A Vue.js video player based on Video.js with additional features like live streaming support.                                                |
-| [HLS.js](https://github.com/video-dev/hls.js) ⭐ 17,061 \| 🐛 145 \| 🌐 TypeScript \| 📅 2026-11-17                       | A JavaScript library that plays HLS video directly in the browser without needing Flash or plugins.                                          |
+| [HLS.js](https://github.com/video-dev/hls.js) ⭐ 17,062 \| 🐛 146 \| 🌐 TypeScript \| 📅 2026-11-17                       | A JavaScript library that plays HLS video directly in the browser without needing Flash or plugins.                                          |
 | [Vue-Plyr](https://github.com/redxtech/vue-plyr) ⭐ 783 \| 🐛 140 \| 🌐 JavaScript \| 📅 2023-01-07                       | A Vue.js wrapper for the Plyr video player.                                                                                                  |
 | [Vue-Core-Video-Player](https://github.com/core-player/vue-core-video-player) ⭐ 480 \| 🐛 71 \| 🌐 Vue \| 📅 2023-01-04  | A lightweight video player for Vue.js applications.                                                                                          |
 | [Vime](https://vimejs.com/)                                                                                              | A customizable media player built with web components, usable with Vue.js and other frameworks.                                              |
@@ -1123,4 +1123,4 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
