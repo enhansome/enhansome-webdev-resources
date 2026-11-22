@@ -562,7 +562,7 @@
                 "open_issues": 173,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25314,
+                "stars": 25315,
                 "topics": [
                   "gallery",
                   "image",
@@ -722,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22471,
+                "stars": 22472,
                 "topics": [
                   "animation",
                   "css",
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18387,
+                "stars": 18388,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16280,
+                "stars": 16279,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1184,7 +1184,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T13:04:03Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "video-dev",
                 "repo": "hls.js",
                 "stars": 17062,
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:12:38.989Z",
+    "last_updated": "2026-11-22T07:56:44.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
