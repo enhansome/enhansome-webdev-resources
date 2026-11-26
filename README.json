@@ -225,7 +225,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
-                "open_issues": 109,
+                "open_issues": 110,
                 "owner": "bgrins",
                 "repo": "TinyColor",
                 "stars": 5248,
@@ -249,10 +249,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:05:19Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "Qix-",
                 "repo": "color",
-                "stars": 4933,
+                "stars": 4932,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -376,11 +376,11 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T17:26:13Z",
+                "last_commit": "2026-11-25T12:51:18Z",
                 "open_issues": 8,
                 "owner": "omgovich",
                 "repo": "colord",
-                "stars": 1904,
+                "stars": 1905,
                 "topics": [
                   "a11y",
                   "cmyk",
@@ -450,7 +450,7 @@
                 "open_issues": 213,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21954,
+                "stars": 21956,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -562,7 +562,7 @@
                 "open_issues": 174,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25313,
+                "stars": 25312,
                 "topics": [
                   "gallery",
                   "image",
@@ -752,7 +752,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28051,
+                "stars": 28052,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -794,7 +794,7 @@
                 "open_issues": 77,
                 "owner": "dixonandmoe",
                 "repo": "rellax",
-                "stars": 7114,
+                "stars": 7115,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -913,7 +913,7 @@
                 "open_issues": 136,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35351,
+                "stars": 35349,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16276,
+                "stars": 16280,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1026,7 +1026,7 @@
                 "open_issues": 0,
                 "owner": "tameemsafi",
                 "repo": "typewriterjs",
-                "stars": 2663,
+                "stars": 2665,
                 "topics": [
                   "javascript",
                   "native-javascript-plugin",
@@ -1059,7 +1059,7 @@
                 "open_issues": 68,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10294,
+                "stars": 10295,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1096,7 +1096,7 @@
                 "open_issues": 9,
                 "owner": "pedronauck",
                 "repo": "react-video",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 2,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29978,
+                "stars": 29975,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1184,10 +1184,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-23T21:07:47Z",
-                "open_issues": 152,
+                "open_issues": 151,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17065,
+                "stars": 17066,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1225,7 +1225,7 @@
                 "open_issues": 140,
                 "owner": "redxtech",
                 "repo": "vue-plyr",
-                "stars": 782,
+                "stars": 781,
                 "topics": [
                   "audio",
                   "audio-player",
@@ -1280,7 +1280,7 @@
                 "open_issues": 72,
                 "owner": "jwplayer",
                 "repo": "jwplayer",
-                "stars": 2563,
+                "stars": 2562,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:45:26.618Z",
+    "last_updated": "2026-11-26T09:23:49.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
