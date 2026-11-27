@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "picturepan2",
             "repo": "instagram.css",
-            "stars": 4007,
+            "stars": 4006,
             "topics": []
           },
           "first_seen": "2026-08-28T12:41:27.170Z"
@@ -249,7 +249,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:05:19Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "Qix-",
                 "repo": "color",
                 "stars": 4932,
@@ -376,7 +376,7 @@
                 "id": 316474381,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T12:51:18Z",
+                "last_commit": "2026-11-26T15:45:27Z",
                 "open_issues": 8,
                 "owner": "omgovich",
                 "repo": "colord",
@@ -450,7 +450,7 @@
                 "open_issues": 213,
                 "owner": "eligrey",
                 "repo": "FileSaver.js",
-                "stars": 21956,
+                "stars": 21955,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -471,7 +471,7 @@
                 "open_issues": 53,
                 "owner": "blueimp",
                 "repo": "jQuery-File-Upload",
-                "stars": 30678,
+                "stars": 30676,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 19,
                 "owner": "verlok",
                 "repo": "vanilla-lazyload",
-                "stars": 7849,
+                "stars": 7848,
                 "topics": [
                   "hacktoberfest",
                   "iframes",
@@ -562,7 +562,7 @@
                 "open_issues": 174,
                 "owner": "dimsemenov",
                 "repo": "PhotoSwipe",
-                "stars": 25312,
+                "stars": 25311,
                 "topics": [
                   "gallery",
                   "image",
@@ -722,7 +722,7 @@
                 "open_issues": 41,
                 "owner": "jlmakes",
                 "repo": "scrollreveal",
-                "stars": 22470,
+                "stars": 22473,
                 "topics": [
                   "animation",
                   "css",
@@ -752,7 +752,7 @@
                 "open_issues": 375,
                 "owner": "michalsnik",
                 "repo": "aos",
-                "stars": 28052,
+                "stars": 28051,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -815,7 +815,7 @@
                 "open_issues": 0,
                 "owner": "janpaepke",
                 "repo": "ScrollMagic",
-                "stars": 14965,
+                "stars": 14966,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -836,7 +836,7 @@
                 "open_issues": 7,
                 "owner": "locomotivemtl",
                 "repo": "locomotive-scroll",
-                "stars": 8899,
+                "stars": 8900,
                 "topics": [
                   "in-view",
                   "javascript",
@@ -977,7 +977,7 @@
                 "open_issues": 262,
                 "owner": "Prinzhorn",
                 "repo": "skrollr",
-                "stars": 18384,
+                "stars": 18382,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 24,
                 "owner": "mattboldt",
                 "repo": "typed.js",
-                "stars": 16280,
+                "stars": 16279,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.170Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 68,
                 "owner": "cookpete",
                 "repo": "react-player",
-                "stars": 10295,
+                "stars": 10296,
                 "topics": [
                   "audio",
                   "dailymotion",
@@ -1117,7 +1117,7 @@
                 "open_issues": 2,
                 "owner": "sampotts",
                 "repo": "plyr",
-                "stars": 29975,
+                "stars": 29976,
                 "topics": [
                   "deprecated",
                   "html5-video",
@@ -1146,7 +1146,7 @@
                 "open_issues": 200,
                 "owner": "surmon-china",
                 "repo": "videojs-player",
-                "stars": 5434,
+                "stars": 5431,
                 "topics": [
                   "dash-player",
                   "flv-player",
@@ -1187,7 +1187,7 @@
                 "open_issues": 151,
                 "owner": "video-dev",
                 "repo": "hls.js",
-                "stars": 17066,
+                "stars": 17068,
                 "topics": [
                   "ecmascript6",
                   "hacktoberfest",
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:23:49.323Z",
+    "last_updated": "2026-11-27T09:37:01.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful websites and resources for web developers",
